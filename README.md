@@ -10,7 +10,9 @@
 
 ###
 
-<p align="left">- 📚 I’m currently learning about **Front-End**<br>- 🎯 Goals: To master a wide range of programming languages<br>- 🎲 Fun fact: I have a sweet tooth</p>
+- 📚 I’m currently learning about **Front-End**
+- 🎯 Goals: To master a wide range of programming languages
+- 🎲 Fun fact: I have a sweet tooth</p>
 
 ###
 
